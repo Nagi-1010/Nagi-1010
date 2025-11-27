@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nagi-1010
-- 👀 I’m interested in Progtamming & Ai.
+- 👀 I’m interested in Programming & Ai.
 - 🌱 I’m currently learning C++ & Python.
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
