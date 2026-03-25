@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nagi Alyafaey 
 - 👀 I’m interested in Robotics & Ai.
 - 🌱 I’m currently learning different tools.
-- 💞️ I’m looking to collaborate on Mecatronics projects ...
+- 💞️ I’m looking to collaborate on Mechatronics projects ...
 
 <!---
 Nagi-1010/Nagi-1010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
